@@ -5,6 +5,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+1. [Project Overview](#1-project-overview)
+2. [Core Question](#2-core-question)
+3. [Dataset](#3-dataset)
+4. [Objectives](#4-objectives)
+5. [Team Roles](#5-team-roles)
+6. [Project Workflow](#6-project-workflow)
+7. [ETL Pipeline](#7-etl-pipeline)
+8. [Analysis](#8-analysis)
+9. [Dashboard](#9-dashboard)
+10. [Key Insights](#10-key-insights)
+11. [Recommendations](#11-recommendations)
+12. [File Structure](#12-file-structure)
+13. [How to Run This Project](#13-how-to-run-this-project)
+14. [Acknowledgements](#14-acknowledgements)
+
+---
+
 ## **1.) Project Overview:** *(To Be Expanded)*  
 
 ---
