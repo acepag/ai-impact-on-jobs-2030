@@ -1,7 +1,8 @@
 # **AI Impact on Jobs 2030 — Hackathon Project**
 *Team B (Tish, Baba, Volo, Stefano, Ace)— 3-Day Data Analytics Sprint*
 
-*December 8th to 10th 2025*
+December 8th to 10th 2025 
+
 ---
 
 ## **1.) Project Overview:** *(To Be Expanded)*  
