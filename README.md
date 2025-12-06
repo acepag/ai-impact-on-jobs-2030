@@ -1,16 +1,13 @@
 # **AI Impact on Jobs 2030 — Hackathon Project**
-*Group B — 3-Day Data Analytics Sprint*
+*Team B (Tish, Baba, Volo, Stefano, Ace)— 3-Day Data Analytics Sprint*
 
 ---
 
-## **1. Project Overview**  
-This project explores how AI may reshape the workforce by 2030 using the AI Impact on Jobs 2030 dataset from Kaggle. Our aim is to understand which roles are most vulnerable, which may evolve, and where new opportunities could appear.
+## **1. Project Overview (To Be Expanded)**  
 
 ---
 
-## **2. Problem Statement**  
-What happens to the global workforce when AI reaches widespread adoption?  
-Our goal is to investigate trends, categories of jobs affected, and the skills required to adapt.
+## **2. Problem Statement (To Be Expanded)**  
 
 ---
 
@@ -38,13 +35,13 @@ Contents include:
 ## **5. Team Roles**  
 
 ### **Project Manager — Ace**  
-Coordinates workflow, tasks, documentation, and presentation.
+Coordinated workflow, tasks, documentation, and presentation.
 
 ### **Data Architect — Stefano & Volo**  
-Handles ETL, data cleaning, structure, and data modelling.
+Handled ETL, data cleaning, structure, and data modelling.
 
-### **Data Analyst — [Name]**  
-Conducts analysis, builds visuals, creates dashboards, and produces insights.
+### **Data Analyst — [Tish & Baba]**  
+Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
