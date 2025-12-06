@@ -125,12 +125,12 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **10.) Key Insights:** *(Placeholder)*  
+## **10.) Key Insights:** *(To Be Added)*  
 To be populated after analysis.
 
 ---
 
-## **11.) Recommendations:** *(Placeholder)*  
+## **11.) Recommendations:** *(To Be Added)*  
 To be added after insight generation.
 
 ---
