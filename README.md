@@ -7,7 +7,7 @@
 
 ---
 
-## **2.) Problem Statement:** *(To Be Expanded)*  
+## **2.) Core Question:** *(To Be Expanded)*  
 
 ---
 
