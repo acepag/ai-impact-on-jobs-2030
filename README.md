@@ -40,7 +40,7 @@ Coordinated workflow, tasks, documentation, and presentation.
 ### **Data Architect — Stefano & Volo**  
 Handled ETL, data cleaning, structure, and data modelling.
 
-### **Data Analyst — [Tish & Baba]**  
+### **Data Analyst — Tish & Baba**  
 Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
