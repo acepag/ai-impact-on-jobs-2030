@@ -36,7 +36,7 @@ Contents include:
 
 ## **5.) Team Roles:**  
 
-Our team has been divided into three main roles - each of us responsible for ensuring deliverables for that role are fulfilled.
+Our team is divided into three main roles - each of us responsible for ensuring deliverables for that role are fulfilled.
 
 ### **Project Manager — Ace**  
 Coordinated workflow, tasks, documentation, and presentation.
