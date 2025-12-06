@@ -28,7 +28,7 @@ Contents include:
 - Explore and analyse the dataset  
 - Identify key insights and trends  
 - Build an interactive dashboard  
-- Present actionable recommendations  
+- Present recommendations
 
 ---
 
