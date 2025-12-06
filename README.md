@@ -93,23 +93,23 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **10.) Key Insights** *(Placeholder)*  
+## **10.) Key Insights:** *(Placeholder)*  
 To be populated after analysis.
 
 ---
 
-## **11.) Recommendations** *(Placeholder)*  
+## **11.) Recommendations:** *(Placeholder)*  
 To be added after insight generation.
 
 ---
 
-## **12.) File Structure**  *(To Be Added)*
+## **12.) File Structure:**  *(To Be Added)*
 
 ---
 
-## **13.) How to run this project**  *(To Be Added)*
+## **13.) How to run this project:**  *(To Be Added)*
 
 ---
 
-## **14.) Acknowledgements**  *(To Be Added)*
+## **14.) Acknowledgements:**  *(To Be Added)*
 
