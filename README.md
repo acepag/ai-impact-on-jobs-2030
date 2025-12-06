@@ -27,7 +27,7 @@ Contents include:
 - Build a clean, reliable ETL pipeline  
 - Explore and analyse the dataset  
 - Identify key insights and trends  
-- Build an interactive dashboard  
+- Build interactive dashboard  
 - Present recommendations
 
 ---
