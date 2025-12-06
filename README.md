@@ -109,9 +109,5 @@ To be added after insight generation.
 
 ---
 
-## **13.) How to run this project**  *(To Be Added)*
-
----
-
-## **13.) Acknowledgements**  *(To Be Added)*
+## **14.) Acknowledgements**  *(To Be Added)*
 
