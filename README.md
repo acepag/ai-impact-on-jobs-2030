@@ -7,21 +7,32 @@
 
 ## 📑 Table of Contents
 
-## 📑 Table of Contents
-
 1. Project Overview
+
 2. Core Question
+
 3. Dataset
+
 4. Objectives
+
 5. Team Roles
+
 6. Project Workflow
+
 7. ETL Pipeline
+
 8. Analysis
+
 9. Dashboard
+
 10. Key Insights
+
 11. Recommendations
+
 12. File Structure
+
 13. How to Run This Project
+
 14. Acknowledgements
 
 ---
