@@ -3,15 +3,15 @@
 
 ---
 
-## **1. Project Overview (To Be Expanded)**  
+## **1. Project Overview:** *(To Be Expanded)*  
 
 ---
 
-## **2. Problem Statement (To Be Expanded)**  
+## **2. Problem Statement:** *(To Be Expanded)*  
 
 ---
 
-## **3. Dataset**  
+## **3. Dataset:**  *(To Be Expanded)*  
 **Source:** https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030  
 
 Contents include:  
@@ -23,7 +23,7 @@ Contents include:
 
 ---
 
-## **4. Objectives**  
+## **4. Objectives:**  *(To Be Expanded)*  
 - Build a clean, reliable ETL pipeline  
 - Explore and analyse the dataset  
 - Identify key insights and trends  
@@ -32,7 +32,9 @@ Contents include:
 
 ---
 
-## **5. Team Roles**  
+## **5. Team Roles:**  
+
+Our team has been divided into three main roles - each of us responsible for ensuring deliverables for that role are fulfilled.
 
 ### **Project Manager — Ace**  
 Coordinated workflow, tasks, documentation, and presentation.
@@ -45,7 +47,7 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **6. Project Workflow**  
+## **6. Project Workflow:**  
 
 ### **Day 1 — Ideation & ETL Setup**  
 - Define problem  
@@ -64,7 +66,7 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **7. ETL Pipeline** *(To Be Expanded)*  
+## **7. ETL Pipeline:** *(To Be Expanded)*  
 - Extract dataset  
 - Handle missing values  
 - Remove duplicates  
@@ -73,7 +75,7 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **8. Analysis** *(To Be Expanded)*  
+## **8. Analysis:** *(To Be Expanded)*  
 - Descriptive statistics  
 - Correlations  
 - Group comparisons  
@@ -81,7 +83,7 @@ Conducted analysis, builds visuals, creates dashboards, and produces insights.
 
 ---
 
-## **9. Dashboard** *(To Be Added)*  
+## **9. Dashboard:** *(To Be Added)*  
 - Interactive filters and slicers  
 - Key charts  
 - User experience layout  
